@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ydvdhrj/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ydvdhrj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0228-summary-ranges](https://github.com/ydvdhrj/leetcode/tree/master/0228-summary-ranges) |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ydvdhrj/leetcode/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
