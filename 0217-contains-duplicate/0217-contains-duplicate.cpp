@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        map<int,int> it;
+        unordered_map<int,int> it;
         for(int i:nums){
             it[i]++;
         }
