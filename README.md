@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ydvdhrj/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ydvdhrj/leetcode/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/ydvdhrj/leetcode/tree/master/0392-is-subsequence) |
+| [0782-jewels-and-stones](https://github.com/ydvdhrj/leetcode/tree/master/0782-jewels-and-stones) |
 | [1894-merge-strings-alternately](https://github.com/ydvdhrj/leetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ydvdhrj/leetcode/tree/master/0013-roman-to-integer) |
+| [0782-jewels-and-stones](https://github.com/ydvdhrj/leetcode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
