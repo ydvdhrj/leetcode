@@ -2,7 +2,7 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         unordered_map<char,int> a ,b;
-        // if(s.size()!=t.size()) return false;
+        if(s.size()!=t.size()) return false;
         for(char c:s){
             a[c]++;
         }
