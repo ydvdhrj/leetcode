@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ydvdhrj/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ydvdhrj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ydvdhrj/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ydvdhrj/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ydvdhrj/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ydvdhrj/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ydvdhrj/leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ydvdhrj/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ydvdhrj/leetcode/tree/master/0383-ransom-note) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/ydvdhrj/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ydvdhrj/leetcode/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ydvdhrj/leetcode/tree/master/0242-valid-anagram) |
 ## Matrix
@@ -94,6 +97,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ydvdhrj/leetcode/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/ydvdhrj/leetcode/tree/master/1297-maximum-number-of-balloons) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
