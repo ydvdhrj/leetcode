@@ -16,7 +16,7 @@ public:
         // }
         // return ans;
 
-        int ele = nums[0], count=0;
+        int ele = -1, count=0;
         for(int i:nums){
             if(count==0) ele = i;
             count+= (i==ele)?1:-1;
