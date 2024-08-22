@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ydvdhrj/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ydvdhrj/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ydvdhrj/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ydvdhrj/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ydvdhrj/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ydvdhrj/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/ydvdhrj/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ydvdhrj/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ydvdhrj/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ydvdhrj/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
