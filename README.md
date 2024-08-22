@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ydvdhrj/leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ydvdhrj/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ydvdhrj/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ydvdhrj/leetcode/tree/master/0228-summary-ranges) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ydvdhrj/leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/ydvdhrj/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ydvdhrj/leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/ydvdhrj/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ydvdhrj/leetcode/tree/master/0242-valid-anagram) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ydvdhrj/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
