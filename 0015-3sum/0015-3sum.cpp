@@ -60,6 +60,6 @@ public:
         }
         // sort(ans.begin(),ans.end());
         // ans.erase(unique(ans.begin(),ans.end()),ans.end());
-        return vector<vector<int>>(ans.begin(),ans.end());
+        return ans;
     }
 };
