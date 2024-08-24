@@ -33,7 +33,7 @@ public:
 
         //another way
         sort(nums.begin(),nums.end());
-        vector<vector<int>> ans;
+        set<vector<int>> ans;
         for(int i=0;i<nums.size()-2;i++){
             
             int k=nums.size()-1;
@@ -45,7 +45,8 @@ public:
                     temp.push_back(nums[i]);
                     temp.push_back(nums[j]);
                     temp.push_back(nums[k]);
-                    ans.push_back(temp);
+
+                    ans.insert(temp);
                     j++;
                     k--; 
                     if(nums[j]==nums[j-1]) j++;
@@ -64,7 +65,7 @@ public:
 
         }
         // sort(ans.begin(),ans.end());
-        ans.erase(unique(ans.begin(),ans.end()),ans.end());
-        return ans;
+        // ans.erase(unique(ans.begin(),ans.end()),ans.end());
+        return vector<vector<int>>(ans.begin(),ans.end());
     }
 };
