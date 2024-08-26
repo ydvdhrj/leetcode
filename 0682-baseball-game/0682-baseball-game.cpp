@@ -4,15 +4,8 @@ public:
         stack<int> s;
         s.push(0);
         for(int i=0;i<operations.size();i++){
-            if(operations[i][0]>='0' && operations[i][0]<='9'){
-                s.push(stoi(operations[i]));
-                
-            }
-            else if(operations[i][0]=='-'){
-                s.push(stoi(operations[i]));
-                
-            }
-            else if(operations[i]=="+"){
+           
+            if(operations[i]=="+"){
                 int temp = s.top();
                 int sum = temp;
                 s.pop();
@@ -25,6 +18,9 @@ public:
             }
             else if(operations[i]=="C"){
                 s.pop();
+            }
+            else{
+                s.push(stoi(operations[i]));
             }
         }
         int ans=0;
