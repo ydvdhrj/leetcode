@@ -30,10 +30,7 @@ public:
                 s.push(stoi(i));
             }
         }
-        int result=0;
-        while(!s.empty()){
-            result+=s.top();s.pop();
-        }
-        return result;
+        
+        return s.top();
     }
 };
