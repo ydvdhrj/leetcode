@@ -157,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ydvdhrj/leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ydvdhrj/leetcode/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ydvdhrj/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
