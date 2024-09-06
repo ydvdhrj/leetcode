@@ -45,12 +45,9 @@ public:
                 }
             }
         }
-        if(list1!=NULL){
-            t->next=list1;
-        }
-        if(list2!=NULL){
-            t->next=list2;
-        }
+        
+        t->next=list1 ? list1 : list2;
+        
 
         return h;
     }
