@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ydvdhrj/leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ydvdhrj/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/ydvdhrj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ydvdhrj/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ydvdhrj/leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/ydvdhrj/leetcode/tree/master/0792-binary-search) |
@@ -211,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ydvdhrj/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ydvdhrj/leetcode/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ydvdhrj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
