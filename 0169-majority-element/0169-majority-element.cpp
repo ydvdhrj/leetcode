@@ -9,9 +9,9 @@ public:
         }
         int max=0,ans=0;
         for(auto it:m){
-            if(it.second>max){
+            if(it.second>nums.size()/2){
                 ans=it.first;
-                max = it.second;
+                
             } 
         }
         return ans;
