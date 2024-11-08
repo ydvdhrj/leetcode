@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/ydvdhrj/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ydvdhrj/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2350-find-closest-number-to-zero](https://github.com/ydvdhrj/leetcode/tree/master/2350-find-closest-number-to-zero) |
 ## Two Pointers
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ydvdhrj/leetcode/tree/master/0238-product-of-array-except-self) |
+| [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Sorting
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 ## Combinatorics
 |  |
 | ------- |
