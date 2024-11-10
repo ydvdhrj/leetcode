@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2350-find-closest-number-to-zero](https://github.com/ydvdhrj/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ydvdhrj/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Combinatorics
 |  |
 | ------- |
