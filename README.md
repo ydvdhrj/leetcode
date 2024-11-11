@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2350-find-closest-number-to-zero](https://github.com/ydvdhrj/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ydvdhrj/leetcode/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ydvdhrj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
+| [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -193,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/ydvdhrj/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ydvdhrj/leetcode/tree/master/0907-koko-eating-bananas) |
+| [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ydvdhrj/leetcode/tree/master/0011-container-with-most-water) |
+| [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Stack
 |  |
 | ------- |
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ydvdhrj/leetcode/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
