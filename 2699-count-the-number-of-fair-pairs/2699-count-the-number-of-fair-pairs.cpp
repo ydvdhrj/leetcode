@@ -43,45 +43,61 @@ public:
 
 
 
-    int upperBound(vector<int>& nums, int target, int i) {
-        int s = i+1;
-        int e = nums.size()-1;
-        int ans = -1;
-        while(s<=e) {
-            int m = (s+e)/2;
-            if(nums[m] <= target) {
-                ans = m;
-                s = m+1;
-            }
-            else e = m-1;
-        }
-        return ans;
-    }
-    int lowerBound(vector<int>& nums, int target, int i) {
-        int s = i+1;
-        int e = nums.size()-1;
-        int ans = -1;
-        while(s<=e) {
-            int m = (s+e)/2;
-            if(nums[m] >= target) {
-                ans = m;
-                e = m-1;
-            }
-            else s = m+1;
-        }
-        return ans;
-    }
-    long long countFairPairs(vector<int>& temp, int lower, int upper) {
-        long long ans = 0;
-        sort(temp.begin(), temp.end());
-        for(int i=0; i<temp.size(); i++) {
-            int low = lower-temp[i];
-            int up = upper-temp[i];
-            int s = lowerBound(temp,low,i);
-            int e = upperBound(temp,up,i);
-            if(s != -1 && e != -1)
-                ans += (e-s+1);
-        }
-        return ans;
-    }
+    // int upperBound(vector<int>& nums, int target, int i) {
+    //     int s = i+1;
+    //     int e = nums.size()-1;
+    //     int ans = -1;
+    //     while(s<=e) {
+    //         int m = (s+e)/2;
+    //         if(nums[m] <= target) {
+    //             ans = m;
+    //             s = m+1;
+    //         }
+    //         else e = m-1;
+    //     }
+    //     return ans;
+    // }
+    // int lowerBound(vector<int>& nums, int target, int i) {
+    //     int s = i+1;
+    //     int e = nums.size()-1;
+    //     int ans = -1;
+    //     while(s<=e) {
+    //         int m = (s+e)/2;
+    //         if(nums[m] >= target) {
+    //             ans = m;
+    //             e = m-1;
+    //         }
+    //         else s = m+1;
+    //     }
+    //     return ans;
+    // }
+    // long long countFairPairs(vector<int>& temp, int lower, int upper) {
+    //     long long ans = 0;
+    //     sort(temp.begin(), temp.end());
+    //     for(int i=0; i<temp.size(); i++) {
+    //         int low = lower-temp[i];
+    //         int up = upper-temp[i];
+    //         int s = lowerBound(temp,low,i);
+    //         int e = upperBound(temp,up,i);
+    //         if(s != -1 && e != -1)
+    //             ans += (e-s+1);
+    //     }
+    //     return ans;
+    // }
+
+
+    long long countLess(vector<int>& nums, int val) {
+    long long res = 0;
+    for (int i = 0, j = nums.size() - 1; i < j; ++i) {
+        while(i < j && nums[i] + nums[j] > val)
+            --j;
+        res += j - i;
+    }        
+    return res;
+}
+long long countFairPairs(vector<int>& nums, int lower, int upper) {
+    sort(begin(nums), end(nums));
+    return countLess(nums, upper) - countLess(nums, lower - 1);
+}
+    
 };
