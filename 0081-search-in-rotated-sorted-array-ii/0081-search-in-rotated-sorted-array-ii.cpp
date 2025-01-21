@@ -2,10 +2,7 @@ class Solution {
 public:
     bool search(vector<int>& nums, int target) {
         int l=0,r=nums.size()-1;
-        if(nums.size()==1){
-            return nums[0]==target;
-        }
-        else{
+        
         while(l<=r){
             int m=l+(r-l)/2;
             if(nums[m]==target) return true;
@@ -29,7 +26,7 @@ public:
             }
 
         }
-        }
+        
         return false;
     }
 };
