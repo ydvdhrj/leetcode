@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ydvdhrj/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ydvdhrj/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ydvdhrj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ydvdhrj/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ydvdhrj/leetcode/tree/master/0739-daily-temperatures) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/ydvdhrj/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/ydvdhrj/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ydvdhrj/leetcode/tree/master/0907-koko-eating-bananas) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
