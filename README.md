@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ydvdhrj/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ydvdhrj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
+| [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ydvdhrj/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ydvdhrj/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ydvdhrj/leetcode/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
