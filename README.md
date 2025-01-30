@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ydvdhrj/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ydvdhrj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ydvdhrj/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ydvdhrj/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ydvdhrj/leetcode/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ydvdhrj/leetcode/tree/master/0229-majority-element-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/ydvdhrj/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ydvdhrj/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ydvdhrj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/ydvdhrj/leetcode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
 | [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ydvdhrj/leetcode/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Memoization
 |  |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ydvdhrj/leetcode/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ydvdhrj/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
