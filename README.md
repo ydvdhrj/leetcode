@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ydvdhrj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ydvdhrj/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ydvdhrj/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ydvdhrj/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ydvdhrj/leetcode/tree/master/0118-pascals-triangle) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ydvdhrj/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ydvdhrj/leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ydvdhrj/leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ydvdhrj/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
