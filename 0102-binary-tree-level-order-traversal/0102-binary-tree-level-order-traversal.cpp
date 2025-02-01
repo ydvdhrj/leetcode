@@ -13,25 +13,24 @@ class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
         vector<vector<int>> result;
-        if(root==NULL) return result;
-
-        queue<TreeNode*> nodesQueue;
-        nodesQueue.push(root);
-        while(!nodesQueue.empty()){
-            int size = nodesQueue.size();
-            vector<int> row(size);
+        if(!root) return result;
+        queue<TreeNode*> q;
+        q.push(root);
+        while(!q.empty()){
+            int size = q.size();
+            vector<int> level;
             for(int i=0;i<size;i++){
-                TreeNode* node = nodesQueue.front();
-                nodesQueue.pop();
-                row[i] = node->val;
-                if(node->left){
-                    nodesQueue.push(node->left);
+                TreeNode* curr = q.front();
+                q.pop();
+                level.push_back(curr->val);
+                if(curr->left){
+                    q.push(curr->left);
                 }
-                if(node->right){
-                    nodesQueue.push(node->right);
+                if(curr->right){
+                    q.push(curr->right);
                 }
             }
-            result.push_back(row);
+            result.push_back(level);
         }
         return result;
     }
