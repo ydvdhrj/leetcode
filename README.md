@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ydvdhrj/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/ydvdhrj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/ydvdhrj/leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/ydvdhrj/leetcode/tree/master/0739-daily-temperatures) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ydvdhrj/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/ydvdhrj/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ydvdhrj/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
 ## Trie
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ydvdhrj/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvdhrj/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/ydvdhrj/leetcode/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ydvdhrj/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ydvdhrj/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ydvdhrj/leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0542-01-matrix) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ydvdhrj/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ydvdhrj/leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Tree
