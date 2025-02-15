@@ -1,34 +1,46 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
-        std::stack<int> stack;
+    vector<int> asteroidCollision(vector<int>& arr) {
+         stack<int>s;
+        vector<int>v;
 
-        for (int a : asteroids) {
-            if (a > 0) {
-                stack.push(a);
-            } else {
-                while (!stack.empty() && stack.top() > 0 && stack.top() < -a) {
-                    stack.pop();
+        for(int i:arr)
+        {
+            if(s.empty() || i>0)
+            {
+                s.push(i);
+            }
+            else
+            {
+                while(!s.empty() && s.top()>0 && s.top()<abs(i))
+                {
+                    s.pop();
                 }
 
-                if (stack.empty() || stack.top() < 0) {
-                    stack.push(a);
+                if(!s.empty() && s.top()==abs(i))
+                {
+                    s.pop();
                 }
+                else
+                {
+                    if(s.empty() || s.top()<0)
+                    {
+                        s.push(i);
 
-                if (!stack.empty() && stack.top() == -a) {
-                    stack.pop();
+                    }
                 }
             }
         }
 
-        std::vector<int> res(stack.size());
-        int i = stack.size() - 1;
-
-        while (!stack.empty()) {
-            res[i--] = stack.top();
-            stack.pop();
+        while(!s.empty())
+        {
+            v.push_back(s.top());
+            s.pop();
         }
 
-        return res; 
+        reverse(v.begin(),v.end());
+
+
+        return v;
     }
 };
