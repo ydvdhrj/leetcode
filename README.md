@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ydvdhrj/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ydvdhrj/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvdhrj/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ydvdhrj/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ydvdhrj/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ydvdhrj/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ydvdhrj/leetcode/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/ydvdhrj/leetcode/tree/master/0782-jewels-and-stones) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ydvdhrj/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ydvdhrj/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ydvdhrj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ydvdhrj/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ydvdhrj/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ydvdhrj/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ydvdhrj/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/ydvdhrj/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ydvdhrj/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ydvdhrj/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ydvdhrj/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ydvdhrj/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/ydvdhrj/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
@@ -371,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ydvdhrj/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ydvdhrj/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ydvdhrj/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
