@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ydvdhrj/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ydvdhrj/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ydvdhrj/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Two Pointers
 |  |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ydvdhrj/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1755-defuse-the-bomb](https://github.com/ydvdhrj/leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ydvdhrj/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ydvdhrj/leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Bit Manipulation
 |  |
