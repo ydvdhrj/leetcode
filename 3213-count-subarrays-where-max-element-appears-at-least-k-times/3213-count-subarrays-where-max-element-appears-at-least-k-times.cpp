@@ -16,28 +16,17 @@ public:
         int l=0,r=0;
         int c=0;
         while(l<=r && r<n){
-            while(c<=k && r<n){
+            
                 if(nums[r]==maxEle){
                     c++;
                 }
-                if(c==k){
-                    ans+=n-r;
-                    break;
-                }
-                r++;
-            }
-            while(c==k && l<=r){
+                
+            while(c>=k){
                 if(nums[l]==maxEle){
                     c--;
-                    l++;
-                    break;
                 }
-                else{
-                    l++;
-                }
-                if(c==k){
-                    ans+=n-r;
-                }
+                l++;
+                ans+=n-r;
                 
             }
             r++;
