@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ydvdhrj/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ydvdhrj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/ydvdhrj/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ydvdhrj/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ydvdhrj/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ydvdhrj/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ydvdhrj/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ydvdhrj/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
 ## Sliding Window
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/ydvdhrj/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ydvdhrj/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ydvdhrj/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
