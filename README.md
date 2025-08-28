@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ydvdhrj/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ydvdhrj/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ydvdhrj/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ydvdhrj/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1297-maximum-number-of-balloons](https://github.com/ydvdhrj/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ydvdhrj/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ydvdhrj/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ydvdhrj/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ydvdhrj/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ydvdhrj/leetcode/tree/master/0204-count-primes) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ydvdhrj/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String Matching
 |  |
 | ------- |
