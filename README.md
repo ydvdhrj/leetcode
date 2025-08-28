@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ydvdhrj/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/ydvdhrj/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ydvdhrj/leetcode/tree/master/0735-asteroid-collision) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ydvdhrj/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ydvdhrj/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ydvdhrj/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ydvdhrj/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/ydvdhrj/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
