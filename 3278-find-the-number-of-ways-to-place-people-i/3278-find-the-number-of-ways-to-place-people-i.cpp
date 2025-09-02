@@ -14,8 +14,8 @@ public:
         //         }
         //     }
         // }
-        sort(points.begin(),points.end(), [](const auto& a, const auto& b){return a[0]==b[0]?a[1]>b[1]:a[0]<b[0]; });
-        reverse(points.begin(),points.end());
+        sort(points.begin(),points.end(), [](const auto& a, const auto& b){return a[0]==b[0]?a[1]<b[1]:a[0]>b[0]; });
+        // reverse(points.begin(),points.end());
         int count=0;
         for(int i=0;i<n-1;i++){
             int y1 = points[i][1];
