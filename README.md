@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ydvdhrj/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/ydvdhrj/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ydvdhrj/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ydvdhrj/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ydvdhrj/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ydvdhrj/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ydvdhrj/leetcode/tree/master/0204-count-primes) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ydvdhrj/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ydvdhrj/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ydvdhrj/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ydvdhrj/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -468,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ydvdhrj/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/ydvdhrj/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ydvdhrj/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
