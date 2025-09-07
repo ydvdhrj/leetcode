@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ydvdhrj/leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ydvdhrj/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ydvdhrj/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ydvdhrj/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ydvdhrj/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ydvdhrj/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/ydvdhrj/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ydvdhrj/leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ydvdhrj/leetcode/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ydvdhrj/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2050-count-good-numbers](https://github.com/ydvdhrj/leetcode/tree/master/2050-count-good-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/ydvdhrj/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/ydvdhrj/leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
