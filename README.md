@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ydvdhrj/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/ydvdhrj/leetcode/tree/master/1013-fibonacci-number) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ydvdhrj/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Trie
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ydvdhrj/leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/ydvdhrj/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ydvdhrj/leetcode/tree/master/0735-asteroid-collision) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ydvdhrj/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ydvdhrj/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ydvdhrj/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ydvdhrj/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Geometry
 |  |
 | ------- |
